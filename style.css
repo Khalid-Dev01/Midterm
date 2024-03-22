@@ -27,6 +27,7 @@ h1{
     font-size: 6rem;
     line-height: 1;
     margin: 0 2rem;
+    color: #ff0000;
 }
 
 .countdown-el{
@@ -35,6 +36,7 @@ h1{
 
 .countdown-el span{
     font-size: 1.3rem;
+    color: #ff0000;
 
 }
 
